@@ -81,11 +81,6 @@ Open your browser and navigate to:
 http://localhost:8080
 ```
 
-## Design Patterns Used
-
-- **Observer Pattern**: For notification system
-- **Factory Pattern**: For session creation
-- **Builder Pattern**: For feedback creation
 
 ## License
 
